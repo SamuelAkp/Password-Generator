@@ -1,5 +1,4 @@
 # PyPassword Generator
-# 🔐 PyPassword Generator
 
 A simple Python project that generates secure, randomized passwords using letters, numbers, and symbols.  
 Built as a fun way to practice Python basics like lists, loops, randomization, and user input handling.  
